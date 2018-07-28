@@ -9,3 +9,9 @@ http://www.virginia.edu/bohr/mse209/chapter6.htm
     
 * [Introduction to Materials Science and Engineering](http://nptel.ac.in/courses/113106032/) (NPTEL)
 
+* Singhal Referene:
+    * [Mechanical Working of Materials](https://yadi.sk/d/VJIUtxoH3JBSQj)
+    * [Phase Transformation](https://yadi.sk/d/EkyxQJ0Z3JBSV3)
+    * [Principles of Extractive Metallurgy](https://yadi.sk/d/nELZHRFl3JBSXk)
+    * [Creep, Fatigue and Fracture](https://yadi.sk/d/j0EPtVm73JBSL2)
+    * [Ebooks](https://yadi.sk/d/uirV2FWm3JBSZK)
