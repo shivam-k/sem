@@ -15,3 +15,4 @@ http://www.virginia.edu/bohr/mse209/chapter6.htm
     * [Principles of Extractive Metallurgy](https://yadi.sk/d/nELZHRFl3JBSXk)
     * [Creep, Fatigue and Fracture](https://yadi.sk/d/j0EPtVm73JBSL2)
     * [Ebooks](https://yadi.sk/d/uirV2FWm3JBSZK)
+* HS60044: https://nptel.ac.in/courses/101104065/
