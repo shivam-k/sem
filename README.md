@@ -16,3 +16,5 @@ http://www.virginia.edu/bohr/mse209/chapter6.htm
     * [Creep, Fatigue and Fracture](https://yadi.sk/d/j0EPtVm73JBSL2)
     * [Ebooks](https://yadi.sk/d/uirV2FWm3JBSZK)
 * HS60044: https://nptel.ac.in/courses/101104065/
+
+https://www.youtube.com/playlist?list=PLpvu_No2oB_6RErTbv93bwPw6TQ8y61Ef&jct=vMDtqPNDfaepUNlWpocVle-3Sj0HMQ&disable_polymer=true
