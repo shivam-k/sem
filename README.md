@@ -1,8 +1,4 @@
-* #Dodge: https://drive.google.com/drive/folders/0B6cy-d1bup7vTjhsLXRnejRELTA?usp=sharing
-http://www.virginia.edu/bohr/mse209/chapter6.htm
-
 * Up: https://www.dropbox.com/request/sclZisP4j2sNy11T7rjR
-       * https://www.dropbox.com/sh/sxjjx8lza6aaf5n/AABnVJUnkq7FWNh4ZxeoekQea?dl=0
 
 * [Introduction to Materials Science and Engineering](http://nptel.ac.in/courses/113106032/) (NPTEL)
 
